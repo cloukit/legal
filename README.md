@@ -17,6 +17,6 @@ Put this at the top of all `*.ts` and `.js` files:
 /*!
  * @license MIT
  * Copyright (c) 2017 Bernhard Grünewaldt - codeclou.io
- * https://github.com/cloukit/legal/blob/master/LICENSE
+ * https://github.com/cloukit/legal
  */
 ```
