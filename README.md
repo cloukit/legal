@@ -2,7 +2,7 @@
 
 # legal
 
-**The sourcecode, component-graphics and documentation of cloukit is licensed under the [MIT License](./LICENSE) to [Bernhard Grünewaldt](https://github.com/clouless).**
+**The sourcecode, component-graphics and documentation of cloukit are licensed <br>under the [MIT License](./LICENSE) to [Bernhard Grünewaldt](https://github.com/clouless).**
 
 **The cloukit logo is intellectual property of Bernhard Grünewaldt.**
 
